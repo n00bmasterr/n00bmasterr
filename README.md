@@ -1,5 +1,5 @@
 IT student and a beginner CTF player.
-![Blog](https://n00bmasterr.github.io)
+[Blog](https://n00bmasterr.github.io)
 
 
 <!--
