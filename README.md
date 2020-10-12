@@ -1,5 +1,14 @@
-IT student and a beginner CTF player.
+### IT student and a beginner CTF player.
+
+Just another IT student.
+
 [Blog](https://n00bmasterr.github.io)
+
+[HackTheBox profile](HackTheBox: https://www.hackthebox.eu/profile/207156)
+
+[TryHackMe profile - butterchicken](https://tryhackme.com/p/butterchicken)
+
+[TryHackMe profile - n00bmaster](https://tryhackme.com/p/n00bmaster)
 
 
 <!--
