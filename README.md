@@ -1,6 +1,6 @@
 ### IT student and a beginner CTF player.
 
-Just another IT student.
+Just another IT student. :) 
 
 [Blog](https://n00bmasterr.github.io)
 
