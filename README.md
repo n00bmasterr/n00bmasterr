@@ -4,7 +4,7 @@ Just another IT student.
 
 [Blog](https://n00bmasterr.github.io)
 
-[HackTheBox profile](HackTheBox: https://www.hackthebox.eu/profile/207156)
+[HackTheBox profile](https://www.hackthebox.eu/profile/207156)
 
 [TryHackMe profile - butterchicken](https://tryhackme.com/p/butterchicken)
 
