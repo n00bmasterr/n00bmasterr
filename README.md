@@ -1,4 +1,6 @@
-### Hi there 👋
+IT student and a beginner CTF player.
+![Blog](https://n00bmasterr.github.io)
+
 
 <!--
 **n00bmasterr/n00bmasterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
